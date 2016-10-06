@@ -1,7 +1,7 @@
 {
   "name": "element-id-generator",
   "description": "A Node.js module to generate unique element IDs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/xavierdutreilh/element-id-generator",
   "author": {
     "name": "Xavier Dutreilh",
