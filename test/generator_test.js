@@ -11,7 +11,7 @@ function read(filename) {
   return JSON.parse(fs.readFileSync(filename, 'utf8'));
 }
 
-describe('generator', () => {
+describe('element-id-generator', () => {
   describe('generate', () => {
     it('should generate unique element IDs', () => {
       const expected = read(path.join(__dirname, 'expected', 'ids.json'));
