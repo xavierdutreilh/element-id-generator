@@ -1,4 +1,4 @@
-# element-id-generator [![Build Status](https://travis-ci.org/xavierdutreilh/element-id-generator.svg?branch=master)](https://travis-ci.org/xavierdutreilh/element-id-generator)
+# element-id-generator [![Build Status](https://travis-ci.org/xavierdutreilh/element-id-generator.svg?branch=master)](https://travis-ci.org/xavierdutreilh/element-id-generator) [![Dependency Status](https://gemnasium.com/badges/github.com/xavierdutreilh/element-id-generator.svg)](https://gemnasium.com/github.com/xavierdutreilh/element-id-generator)
 
 > A [Node.js](https://nodejs.org/) module to generate unique element IDs
 
