@@ -21,15 +21,14 @@
     "node": ">= 4.0.0"
   },
   "scripts": {
-    "pretest": "eslint .",
+    "pretest": "standard",
     "test": "istanbul cover _mocha"
   },
   "devDependencies": {
-    "eslint": "^3.0.1",
-    "eslint-config-xavierdutreilh": "^0.2.0",
     "expect": "^1.20.2",
     "istanbul": "^0.4.3",
-    "mocha": "^3.0.0"
+    "mocha": "^3.0.0",
+    "standard": "^9.0.0"
   },
   "keywords": [
     "dom",
